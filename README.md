@@ -27,7 +27,7 @@ The ultimate goal is to create a cleaner, healthier environment.
   - Jeremy Michalek
   - Spyros Pandis
   - Albert Presto
-  - Allen Robinson
+  - Allen Robinson (co-director)
   - Ryan Sullivan
 - Health Canada
   - Rick Burnett
