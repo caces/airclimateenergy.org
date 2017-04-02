@@ -1,7 +1,5 @@
 # The Center for Air, Climate and Energy Solutions (CACES)
 
-[![CACES Intro video](http://img.youtube.com/vi/5awEB3SlruU/0.jpg)](http://www.youtube.com/watch?v=5awEB3SlruU "CACES Intro video")
-
 The Center for Air, Climate, and Energy Solutions is a multi-university research center created through a partnership with the Environmental Protection Agency.
 
 Issues like shale gas development, electric car subsidies, and power plants of the future raise air and climate questions that require integrated thinking. The new Center will bring together experts to arrive at the best decisions.
